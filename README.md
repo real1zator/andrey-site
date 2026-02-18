@@ -1,2 +1,0 @@
-# andrey-site
-Landing page — auto-deployed
